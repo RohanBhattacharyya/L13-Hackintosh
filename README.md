@@ -1,6 +1,6 @@
-# Thinkpad L13 Hackintosh Setup
+# ThinkPad L13 Hackintosh Setup
 
-This is a fully working configuration for the L13 Thinkpad. It has been tested on an L13 Thinkpad with 8gb of memory.
+This is a fully working configuration for the L13 ThinkPad. It has been tested on an L13 ThinkPad with 8gb of memory.
 
 
 ## Features
